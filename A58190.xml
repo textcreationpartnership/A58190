@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short and plain account of religion for the instruction of families, by being often read in them : recommended especially to those under his charge / by Geo. Raymond ...</title>
+            <author>Raymond, George, A.M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58190</idno>
+            <idno type="STC">Wing R414</idno>
+            <idno type="STC">ESTC R2514</idno>
+            <idno type="EEBO-CITATION">12577067</idno>
+            <idno type="OCLC">ocm 12577067</idno>
+            <idno type="VID">63637</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63637)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 331:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short and plain account of religion for the instruction of families, by being often read in them : recommended especially to those under his charge / by Geo. Raymond ...</title>
+                  <author>Raymond, George, A.M.</author>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Brudenell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious education --  Home training --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63637:1" rendition="simple:additions"/>
+            <p>A SHORT and PLAIN ACCOUNT OF <hi>Religion,</hi> For the Inſtruction of Fami<g ref="char:EOLhyphen"/>lies, by being often read in them. Recommended eſpecially to thoſe under his Charge.</p>
+            <p>By <hi>Geo. Raymond,</hi> A. M. Miniſter of St. <hi>Law<g ref="char:EOLhyphen"/>rence</hi> in <hi>Ipſwich.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Brudenell</hi> in <hi>Jewen-ſtreet,</hi> 1700.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:63637:2"/>
+            <head>To Governours of Families.</head>
+            <p>YO<g ref="char:V">Ʋ</g> have here laid before you a Scheme of Religion, or the Subſtance of thoſe things which the Miniſters of Chriſt are continually in<g ref="char:EOLhyphen"/>culcating; and in the Method you are wont to hear them from me. And you are earneſtly Be<g ref="char:EOLhyphen"/>ſeeched and Exhorted in the Name of our Lord Jeſus Chriſt, to ſtudy theſe things your ſelves, and to Inſtruct your Families in them; and for that end to cauſe this Account of Religion to be frequently and ſeriouſly read to them. That ſo both you and they may have Minds ſtored with the Subſtance of Religion, and may attend on the Publick Preaching thereof, with Conſcience and with Profit; and may thereby be edified in Knowledge and Holineſs unto Life Eternal.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:63637:2" rendition="simple:additions"/>
+            <head>A Short and Plain ACCOUNT OF RELIGION, For the Inſtruction of Fami<g ref="char:EOLhyphen"/>lies, by being often read in them.</head>
+            <p>IT is ſad to conſider, how all ſorts of Men put off from themſelves the Care of Religion; which is every ones moſt neceſſary concern, and chiefeſt intereſt. The Richer ſort, are ſo taken up with the pleaſures and de<g ref="char:EOLhyphen"/>lights of this World, that they have no time for it: The Poorer, ſo buſied to get the neceſſary accommodations of Life, that they take themſelves to be wholly excus'd from minding it. Put ſet both conſider what Religion is, and they will diſ<g ref="char:EOLhyphen"/>cern the vanity of their ſeveral pleaſe and excuſe.</p>
+            <p>For, Religion is the <hi>Skill of ordering our ſelves, ſo, as to pleaſe God,</hi>
+               <note place="margin">Religion every ones duty and intereſt.</note> 
+               <hi>and to obtain eternal Life.</hi> Religion conſiſts in the Government of our Deſires, Inclinations and Affections, that they may not lead us into an unreaſonable and pernicious Choice, or engage us in evil Works. The
+<hi>Rule</hi> or Religion is the Will
+<pb n="2" facs="tcp:63637:3" rendition="simple:additions"/>of God, declared by our Conſcience, and in his Word: The <hi>End</hi> of Religion is to render us capable of the favour and love of God, and of a happy Portion in Life Eternal. Now what in all Reaſon ſhould every one be ſo concerned for, as that he may not diſhonour and abuſe himſelf, nor be engaged in ſhame<g ref="char:EOLhyphen"/>ful and pernicious ways? And what greater intereſt can any Man have, than to make God his Friend in this Life, and to be happy for ever in the next? And what is more fit and juſt both in it ſelf, and in order to ſo great an end, than that the Righ<g ref="char:EOLhyphen"/>teous Will of God be heartily done by us? Without Reconcili<g ref="char:EOLhyphen"/>ation unto that Will of God, it is impoſſible to have him our Friend here, or hereafter; but being in a State of Enmity and Contradiction to him, we muſt be under his diſpleaſure, and li<g ref="char:EOLhyphen"/>able to his Almighty Anger, which is the moſt miſerable Con<g ref="char:EOLhyphen"/>dition that can be. (<hi>Joh.</hi> 17.3.
+<hi>Job</hi> 8.28. <hi>Eccleſ.</hi> 12.13.</p>
+            <p>It is therefore ignorance of Religion, that rendereth Men to negligent thereof: Whereas right Knowledge doth in a manner conſtrain Men to practiſe accordingly; or elſe leaves them ſelf<g ref="char:EOLhyphen"/>condemned, and ſtung moſt grievouſly by their own Minds, if they are not prevailed with, to do what is reaſonable, juſt and good, what is their neceſſary Duty and higheſt intereſt. It is therefore a moſt charitable Deſign to the Souls of Men (which this addreſs to them travails withal <hi>viz.</hi>) to give ſuch a brief and plain Account of Religion, as may help them to a right Know<g ref="char:EOLhyphen"/>ledge thereof, and influence, and perſwade to a ſuitable Practice. Now. the <hi>Being</hi> of God is the firſt and great <hi>Prin<g ref="char:EOLhyphen"/>ciple</hi> of Religion;<note place="margin">The grounds and principles of Re<g ref="char:EOLhyphen"/>ligion.</note> the <hi>Nature</hi> of God is the <hi>Rea<g ref="char:EOLhyphen"/>ſon;</hi> and the <hi>Will</hi> of God the <hi>Rule</hi> of it.</p>
+            <p>If there be <hi>one neceſſary ſupream being that is the cauſe of all things;</hi>
+               <note place="margin">The Being of God.</note> then we (and all things) depend upon this Author of our Beings; he hath a Right as well as Power to diſpoſe of, and rule us as he pleaſeth; and we are bound to be obſervant of him, to ſubmit our ſelves to his Rule, and to be ſatisfied with his Will: And that there is ſuch a Being above us, whoſe we are, and upon whom we entirely depend; no Man can doubt, that will but open his Eyes and uſe his Reaſon. For how elſe came this World to be made? Or how came the firſt Man into Being? Whence are thoſe perfections in Men, and thoſe excellent properties in other Creatures, which neither they them<g ref="char:EOLhyphen"/>ſelves, nor blind Chance can be the Authors of, but are mani<g ref="char:EOLhyphen"/>feſtly the <hi>Effects</hi> of ſome moſt excellent and perfect <hi>Cauſe?</hi> We
+<pb n="3" facs="tcp:63637:3" rendition="simple:additions"/>are therefore the Creatures of God the Great Creator, ſubject to him that made us, and to that Law of our Creation which he hath put us under: <hi>i. e.</hi> We are bound to keep that Station and Order in which he hath ſet us, both with reſpect to himſelf, and our fellow Creatures, and to obſerve and do thoſe things which are agreeable thereunto. If a Father hath ſuch right in his Children, as to Rule and Govern them for their good; and the Rebellion of Children againſt their Parents is Monſtrous and Unnatural: How much more ſo is our Rebellion againſt God our Heavenly Father? For <hi>we are his off ſpring, and his eternal power and God-head are ſeen from the Creation of the World, ſo that we are without excuſe.</hi> (<hi>Acts</hi> 17.25, 28. <hi>Rom.</hi> 1.20.)</p>
+            <p>This God our Creatour is inſinitely Great, and can Control, Puniſh and Deſtroy, or Help,<note place="margin">The Nature of God.</note> Re<g ref="char:EOLhyphen"/>ward and Bleſs us as he pleaſeth; ſo alſo he is infinitely good, Righteous and True, and re<g ref="char:EOLhyphen"/>quireth nothing of us but what is right and good. Such is the excellency of his Nature, that we may expect from him all that is ſit and good, all that benefit and kindneſs, that is, Conſiſtent with Wiſdom and Holineſs. Such a Father we ought moſt readily to Obſerve and Obey; and we imitate his amiable Nature, when we do his righteous Will. (<hi>Deut.</hi> 32.4. <hi>Pſal.</hi> 73.25. <hi>Mat.</hi> 19.17.
+<hi>Mat.</hi> 5.48.)</p>
+            <p>The Creatour is the Lord of all things, hath a Right in, and Authority over them;<note place="margin">Providence.</note> and God who is all Power, Wiſdom and Goodneſs, can't be thought to neglect and deſert the Beings which he hath made, but doth actually inſpect and govern them. So that we come into this World, continue in it, and go out of it, by his Provi<g ref="char:EOLhyphen"/>dence: Are always under his Eys, and in his Hand; and there<g ref="char:EOLhyphen"/>fore continually obliged in Duty and Intereſt to Obſerve and Regard him. <hi>Acts</hi> 17.24. <hi>Dan.</hi> 4.34, 35. 1 <hi>Tim.</hi> 4.10.)</p>
+            <p>By what we know of God, of our Selves, and other Beings,<note place="margin">Difference of moral good and evil.</note> we unavoidably diſcern a dif<g ref="char:EOLhyphen"/>ference of moral Good and Evil; and it is through horrible neglect and abuſe of our ſelves, that our Conſciences retain not a Evely and pow<g ref="char:EOLhyphen"/>erful Senſation thereof. Some things will appear (upon the leaſt Conſideration) to be juſt and reaſonable, good for us and for all Men, perfective of our Nature and Kind: Others to be Unreaſon<g ref="char:EOLhyphen"/>able, Unrighteous, Shameful, Pernicions, contrary to Nature, deſtructive of ourſelves, and of Mankind. By following the for<g ref="char:EOLhyphen"/>mer, we imitate God and become like him; by the latter, we
+<pb n="4" facs="tcp:63637:4" rendition="simple:additions"/>debaſe our ſelves, walk contrary unto God, and become unrea<g ref="char:EOLhyphen"/>ſonable and like the Brute Beaſts, yea worſe than they who do ac<g ref="char:EOLhyphen"/>cording to the Nature and Powers that God hath given them.</p>
+            <p>This then is the Law of God witneſſed in our Conſciences, <hi>That we abhor that which is evil, and cleave unto that which is good;</hi> by ſhewing us what is good, he declareth what he requireth of us; for his Will is, That we do what is right and good towards our ſelves and others; that we reverence the God that made us, and keep that Order which he hath eſtabliſhed for the common good. So that Vertue is both our Wiſdom and our Duty; but Vice is Folly and Rebellion: It reſiſts the Conſtitution and Authority of God, and worketh confuſion in his Kingdom. Therefore Con<g ref="char:EOLhyphen"/>ſcience that condemneth vicious Actions, doth alſo terrifie the doers of them with the expectation and fear of Divine Vengeance. (<hi>Iſa.</hi> 5.20. <hi>Rom.</hi> 2.15,
+16 <hi>Gen.</hi> 4.7. <hi>Iſa.</hi> 45.9.)</p>
+            <p>From the former Premiſes 'tis reaſonable to conclude,<note place="margin">Future State.</note> That the Holy and Righteous God will for ever maintain that difference of moral good and evil which he hath made: and ſince this is not ſufficiently done by his preſent Providence, that he will determine the future States of Men, according to what they have been and done in this. Righteous Men have reaſon to hope, that their good God and Father will do them all the good they are capable of; and conſequently make them happy in a better State after this, as they are capable of being. For Men by Virtue im<g ref="char:EOLhyphen"/>prove their Capacity of future Happineſs: but Vice lays a Foun<g ref="char:EOLhyphen"/>dation only for Miſery and Wretchedneſs. (<hi>Rom.</hi> 2.6. <hi>&amp;c. Rom.</hi> 6.23.)</p>
+            <p>Now if we firmly imbrace theſe Principles, they do mightily engage us to a ſuitable Reli<g ref="char:EOLhyphen"/>gious Practice.<note place="margin">Rules of Pra<g ref="char:EOLhyphen"/>ctice.</note> If we thus think of God our Maker, and of our ſelves his Creatures, we muſt ſee the Reaſon and neceſſity of keeping the Laws of our Creation; which require us to be and do what is right and meet, towards God, to our fellow Creatures, and to our ſelves. Whenever we ſeriouſly think and reflect upon the former Principles, we are convinced of the neceſſity and goodneſs of the following Laws or Rules of Practice, <hi>viz.</hi>
+            </p>
+            <p>That we ought to ſtudy the Divine Nature, and meditate upon the Excellencies thereof,<note place="margin">Piety.</note> and to acknowledge them by ſuitable affections of Reve<g ref="char:EOLhyphen"/>rence, Love and Truſt; to give unto God ſupream Honour and Worſhip; and to ſubmit our ſelves to his moſt wiſe and holy Will. (<hi>John</hi> 17.3. <hi>Mat.</hi> 4.10. <hi>Acts</hi> 5.29.)</p>
+            <p>
+               <pb facs="tcp:63637:4" rendition="simple:additions"/>That we carefully abſtain from doing injury to others;<note place="margin">Justice.</note> and that we make reſtitution for any wrong which we have done; and that we do them all the right we can; and as we our ſelves would not have our Lives aſſaulted, our Reputation leſſen'd, our Truſt abuſed, our Bed defiled, our Relations debauched, our Eſtates damaged by Violence or Fraud; ſo muſt we be careful of the like rights and intereſts of other Men, <hi>doing unto them as we would they ſhould do unto us,</hi> (<hi>Rom.</hi> 13.7, 8. 1 <hi>Theſ.</hi> 4.6. <hi>Mark</hi> 10.19.</p>
+            <p>And as we would not be treated rigorouſly by others, ſo muſt we deal equally with them:<note place="margin">Equity.</note> favourably interpreting ſevere Laws, not in<g ref="char:EOLhyphen"/>ſiſting upon our utmoſt right to their great damage, not ex<g ref="char:EOLhyphen"/>acting their Labour or Service beyond their Strength, not grieving or diſcouraging them by the uſe of our Authority, nor offend<g ref="char:EOLhyphen"/>ing them by the uſe of our Liberty. (<hi>Mat.</hi> 7.12. <hi>Coloſſ.</hi> 4.1. <hi>Rom.</hi> 14.15,
+21.)</p>
+            <p>It is alſo reaſonable and good, and the Will of God,<note place="margin">Charity.</note> that Mankind ſhould heartily Love each other; taking pleaſure in the content and profit of their Brethren, and doing them what good they can, and forgiving their involuntary or retracted injuries: For he that honoureth another, doth himſelf deſire to be eſteemed; and he that pitieth and relieveth his Brother, hath alſo infirmities and needs of his own. Every one in his turn needeth forbearance and forgiveneſs; and all Men com<g ref="char:EOLhyphen"/>mend in others, and expect from them, Candour, and Gentle<g ref="char:EOLhyphen"/>neſs, and Kindneſs, and other ſuch like Fruits of Sincere Be<g ref="char:EOLhyphen"/>nevolence. (<hi>Rom.</hi>
+12.10, 13, 15, 16. <hi>Gal.</hi> 6.1, 2.)</p>
+            <p>It is likewiſe fit and neceſſary, that we ſhould be peaceably minded,<note place="margin">Peace.</note> and that we love and maintain good Order; that we be content with our Station, and ſtudy to be quiet and to do our own buſineſs; that we endeavour to maintain a right Underſtand<g ref="char:EOLhyphen"/>ing and good agreement amongſt Men, and to reconcile and make them friends again, when they happen to differ; for theſe things are good and profitable for Men. (<hi>Rom.</hi> 12.18. 1 <hi>Theſ.</hi> 4.11. <hi>Mat.</hi> 5.9.)</p>
+            <p>It is our Duty and our Intereſt alſo, to mo<g ref="char:EOLhyphen"/>derate and govern all our Inclinations and Paſſions by Reaſon,<note place="margin">Sobriety or Puri<g ref="char:EOLhyphen"/>ty.</note> which God hath given us for that purpoſe. Reaſon being in Man (what inſtinct is in Brutes) his Nature or Governing Principle
+<pb n="6" facs="tcp:63637:5" rendition="simple:additions"/>and Faculty. This is the moſt difficult part of our Duty, and that which ſecures the whole. In the diſorder of our Inclinations and Paſſions lies the Force and Strength of Temptation, and he that hath attained to the due government of theſe, will have but little provocation to do contrary to his Duty either towards God or Man. Now the Rules of this Self-government are ſuch as theſe,</p>
+            <p>That we think no better of our ſelves than we deſerve; but keep always a juſt Senſe of our abſolute dependance upon God, and of our great Weakneſs, manifold Errours, Imperfections and Faults, which is <hi>Humility.</hi> (<hi>Mat.</hi> 5.3. <hi>Rom.</hi> 12.13.)</p>
+            <p>That we moderate the deſire and uſe of all Delights, by Rea<g ref="char:EOLhyphen"/>ſon, and the expectation of a better Life; and gratifie no Ap<g ref="char:EOLhyphen"/>petite with the diſhonour of God, or to our own, or other Mens Dammage, which is <hi>Temperance.</hi> (<hi>John</hi> 6.27. <hi>Coloſſ.</hi> 3.1, 2. 1
+<hi>Pet.</hi> 2.11.)</p>
+            <p>That we ſuffer no Paſſion to put us out of the uſe of our Reaſon, or to vent it ſelf in Expreſſions and Actions that are in<g ref="char:EOLhyphen"/>decent or injurious, which is <hi>Moderation.</hi> (<hi>Mat.</hi> 5.22. <hi>Epheſ.</hi> 4.31. <hi>Phil.</hi> 4.5.)</p>
+            <p>That we be content with our Condition of Life, and bear with an even and calm Spirit the Viciſſitudes, Misfortunes, and Afflictions which are common to Men, fearing more to do than to ſuffer evil, and ſtudying to adorn every Lot, which is <hi>Fortitude and Patience.</hi> (<hi>Heb.</hi> 13 5. <hi>Phil.</hi> 4.12. <hi>Rom.</hi> 12.12.)</p>
+            <p>That we ſtudy the Conduct and Government of our ſelves; aim at thoſe things which excel, and contrive to do our good Works in fit Seaſon, and in the beſt manner, which is
+<hi>Prudence.</hi> (<hi>Mat.</hi> 10.16. <hi>Eph.</hi> 5.15. <hi>Phil.</hi> 4.8. <hi>Prov.</hi>
+14.8.)</p>
+            <p>This is the <hi>Law written in the Heart;</hi> the fitneſs and neceſſity of theſe Rules is witneſſed in every ones Conſcience; and the <hi>L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve</hi> and <hi>Practice</hi> of them is that Religion which Divine Reve<g ref="char:EOLhyphen"/>lation Travails to reſtore and maintain. If we Conſult and Re<g ref="char:EOLhyphen"/>verence our own Conſciences and the Word of God, we ſhall be very uneaſy upon every Tranſgreſſion of any of theſe Laws, but find great peace and ſatisfaction of Spirit in the keeping of
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em.</p>
+            <p>When through the neglect of God, and abuſe of themſelves,<note place="margin">Depravation of Religion, and Corruption of Mankind.</note> Men had depraved this Religion, by wicked Lives and Idolatrous Worſhip; they became Reprobate in their Minds, and vile in their Affections; and ſunk into a degenerate and forlorn Eſtate; that was as <hi>Wretched</hi> as it was
+<hi>Sinful.</hi> (<hi>Gen.</hi> 6.5. <hi>Rom.</hi> 1.21, 26, 28.)</p>
+            <p>
+               <pb n="7" facs="tcp:63637:5" rendition="simple:additions"/>Since our firſt Parents indulged their Appetite againſt Reaſon, and ſo Tranſgreſſed the Law of God, their Poſterity are ſunk into Senſuality; and by their own unreaſonable Inclinations, by the wicked Example of others, and the Temptations of the World, are betrayed into powerful evil Habits; which make their return to God, and their Duty extreamly difficult.</p>
+            <p>When Men become Enemies to God, in Tem<g ref="char:EOLhyphen"/>per and Life,<note place="margin">Paganiſm.</note> they can no longer bear the true Knowledge and Worſhip of him; whereupon wicked Spirits and evil Men take occaſion to ſet up a falſe Religion, that may gratifie ſuch who are departed from the True. Such who will not keep God's Laws, are yet willing to compound for their Sins, by coſtly Sacrifices, and a pompous Service: And this gave occaſion and riſe to Idolatry, and that to polytheiſm or the ſerving of many Gods; and that ſervice was made up of magical Rites, and the moſt unnatural and abomina<g ref="char:EOLhyphen"/>ble Cuſtoms, humane Sacrifices, and filthy Myſteries. So that Re<g ref="char:EOLhyphen"/>ligion (whoſe end is to Unite and Aſſimulate Men unto God, and to perfect their Natures) became the Inſtrument of Mens Alie<g ref="char:EOLhyphen"/>nation and Departure from God, and of Debauching and En<g ref="char:EOLhyphen"/>ſlaving their Minds, and of filling them with Brutiſh Luſts, and Diabolical Paſſions. (<hi>Mich.</hi> 6.6, 7. <hi>Rom</hi> 1.21. 2 <hi>Cor.</hi> 8.5. <hi>Ezek.</hi> 16.20. <hi>Rom.</hi>
+1.28. <hi>&amp;c.</hi>)</p>
+            <p>This growing impiety God teſtified againſt and oppoſed,<note place="margin">Patriarchal Religion.</note> by the Inſtructions and Example of thoſe holy Patriarchs, whom he raiſed up, by frequent intercourſe with Men, and ſpecial ma<g ref="char:EOLhyphen"/>nifeſtations of his Soveraign Dominion and Power amongſt them: By the Tranſlation of <hi>Enoch, who walked with God,</hi> by the De<g ref="char:EOLhyphen"/>luge of the Old World, and the ſignal Deſtruction of the <hi>Sodomites</hi> and others, who had forſaken God, and abuſed themſelves in a moſt horrible manner. Theſe holy Inſtructions and Examples, and Divine Facts, were deſigned to put a ſtop to the Corruption of Religion and of Men; to enforce the Laws of God, to en<g ref="char:EOLhyphen"/>courage the Righteous, and to <hi>awe</hi> the Wicked, and to awaken in them a becoming Senſe of God, and of their Duty.</p>
+            <p>But at length God Applyed a moſt gracious Remedy for the de<g ref="char:EOLhyphen"/>plorable Condition of loſt Men, by a Standing Revelation of the true Religion, given firſt by <hi>Moſes,</hi> and then by Chriſt.</p>
+            <p>The Holy Scriptures were written by Holy Men, moved and guided by the holy Ghoſt,<note place="margin">Holy Scriptures.</note> and contain a true Hiſtory and Account of ſuch Divine Facts, Meſſages and Revelations, as God ſaw need<g ref="char:EOLhyphen"/>ful
+<pb n="8" facs="tcp:63637:6" rendition="simple:additions"/>to be tranſmitted to all Ages of his Church, for the Inſtru<g ref="char:EOLhyphen"/>ction and Benefit thereof. (2 <hi>Pet.</hi> 1.21. 2 <hi>Tim.</hi> 3.16.)</p>
+            <p>Theſe Scriptures are the Records of the <hi>Firſt Covenant,</hi> or old Teſtament; that is, the Religion which God ſet up among the <hi>Jews</hi> by <hi>Moſes:</hi> And of the
+<hi>Second Covenant,</hi> or New Teſtament, <hi>i. e.</hi> the Religion which God hath ſet up for all Men by his Son Jeſus Chriſt. (<hi>Heb.</hi> 7.8, 13.)</p>
+            <p>The Ten Commandments are the Subſtance and chiefeſt part of God's Covenant with
+<hi>Iſrael;</hi>
+               <note place="margin">Moſaical Religion.</note> and to keep them in the Worſhip and Obedience of the True God, was the deſign of that Diſ<g ref="char:EOLhyphen"/>penſation; and the Political and Ceremonial Laws, did Miniſter to the ſame End, and were ſubſervient to the Moral, to Effect and Enforce the keeping of them. The Rites were ſuch as the Temper of that People, and the Circumſtances of thoſe times re<g ref="char:EOLhyphen"/>quired; and they were ſo many <hi>Signs</hi> between God and his People, <hi>Badges</hi> of the Servants of the True God, and <hi>Memori<g ref="char:EOLhyphen"/>als and Monitors</hi> of their Obligations to him. God their Crea<g ref="char:EOLhyphen"/>tour, their Redeemer, and their King, dwelt in the midſt of them, <hi>That his Fear might be before their Faces that they might not Sin againſt him,</hi> and he ſent them Prophets and Preachers of Righ<g ref="char:EOLhyphen"/>teouſneſs and Repentance, to reprove and threaten their Diſ<g ref="char:EOLhyphen"/>obedience, and to perſwade them to return to their Duty. And by theſe he foretold the Coming of Chriſt, and the ſetting up of a better State of Religion by him.</p>
+            <p>Now in theſe laſt Days God hath ſpoken unto us by his Son,<note place="margin">Chriſtian Reli<g ref="char:EOLhyphen"/>gion.</note> that Divine Perſon in whom the <hi>God-head dwelleth Bodily,</hi> i. e. really and ma<g ref="char:EOLhyphen"/>nifeſtly; who came into the World that he might deſtroy the Works of the Devil, <hi>i. e.</hi> Idolatry and Immorality; that by his Doctrine he might Teach the Laws of God; and by his
+<hi>Obedience unto Death</hi> vindicate the Honour of them, that he might bring in Eternal Righteouſneſs, and ſet up the Kingdom of God, by means moſt proper, and fitted for all times; and therefore made Perpetual and Unchangeable. (<hi>Heb.</hi> 1.2, 3. <hi>Coloſ.</hi> 2.9.
+1 <hi>Joh.</hi> 3.8.)</p>
+            <p>For he hath taught and aſſured us in the Name of God,<note place="margin">The Principles or Doctrine. <g ref="char:V">Ʋ</g>nity of God.</note> That there is but <hi>One God</hi> the Creatour of all things, and Father of our Lord Jeſus Chriſt; and thereby condemned Polythe<g ref="char:EOLhyphen"/>iſm or the Worſhip of many Gods. (<hi>Mat.</hi> 4.10. 1 <hi>Cor.</hi> 8.6.</p>
+            <p>
+               <pb n="9" facs="tcp:63637:6" rendition="simple:additions"/>That God is not to be Worſhipped with Sa<g ref="char:EOLhyphen"/>crifices or by Images,<note place="margin">True Worſhip.</note> or with the Pomp intro<g ref="char:EOLhyphen"/>duced by Idolatry; but with the Natural Acts and Expreſſions of Divine Honour, and proper Tokens of Reſpect and Reverence; and that the beſt and moſt acceptable Service of God, conſiſts in a holy <hi>imitation</hi> of him. (<hi>Joh.</hi> 4.24. <hi>Mat.</hi> 5.48.)</p>
+            <p>That God who is Propitious in his Nature, is reconciled to ſinners in his Son;<note place="margin">Reconciliation.</note> whoſe <hi>Obedi<g ref="char:EOLhyphen"/>ence</hi> unto Death, doth worthily vindicate, and greatly honour the Laws of God; and his voluntary <hi>Sacrifice</hi> of himſelf was ſo well pleaſing unto God, that he did thereupon enter into a <hi>Covenant</hi> of Grace and Mercy with Mankind; where<g ref="char:EOLhyphen"/>in he hath engaged himſelf, to forgive the Sins of thoſe who Believe and Repent, and to make them partakers of eternal Life. (<hi>Mat.</hi> 5.45. <hi>Mark</hi>
+10.44. <hi>John</hi> 10.17. <hi>Mat.</hi> 26.28.)</p>
+            <p>That God ſent his Son to be the Saviour of the World,<note place="margin">Glory of Chriſt.</note> and hath appointed him the <hi>only</hi> Mediatour between God and Man; in whom God ſpeaketh unto us, and by whom we have acceſs unto God, that God hath given him all Power, and made him King and Lord of all things, That he may be the <hi>Author of Eter<g ref="char:EOLhyphen"/>nal Salvation to all them that obey him.</hi> (<hi>Mat.</hi> 3.17. 1 <hi>Tim.</hi> 2.5. <hi>Joh.</hi> 5.22.
+<hi>Mat.</hi> 28.18.)</p>
+            <p>That this ſame Lord Jeſus ſhall come in Glory to Judge the World,<note place="margin">Reſurrection and Judgment.</note> and ſhall raiſe the Dead, and ſhall doom the Wicked to the Dam<g ref="char:EOLhyphen"/>nation of Hell, and receive the Righteous into Life Eternal. (<hi>Mat.</hi>
+25.31, 46. <hi>John</hi> 5.27, 28, 29.)</p>
+            <p>The Doctrine of Chriſt then Teacheth, and his Religion obli<g ref="char:EOLhyphen"/>geth us, to Worſhip the one true God in a right manner, through one Mediatour; to look for the Mercy of God upon our Repentance without coſtly Expiations and Sacrifices, and to live Godly, Righteouſly and Soberly in this World, looking for the glorious Appearance of our Lord Jeſus Chriſt, who ſhall Raiſe the Dead, Judge the World, and render to every Man according to his Deeds.</p>
+            <p>
+               <note place="margin">The Laws of Chriſtianity. Principal and Primary.</note>The Laws of Chriſt are either <hi>Principal</hi> and Primary, or <hi>Secondary,</hi> inſtitution s Subſer<g ref="char:EOLhyphen"/>vient and Miniſtring to the former. The Prin<g ref="char:EOLhyphen"/>cipal Laws, which contain the <hi>Subſtantial</hi> part of Religion, are the ſame with thoſe Laws of our Creation, or Rules
+<pb n="10" facs="tcp:63637:7" rendition="simple:additions"/>of Piety, Righteouſneſs and Purity, which are before recited, and theſe are delivered and explain'd in the Sermons of our Lord, and inculcated in the writings of his Apoſtles: and to theſe he hath added</p>
+            <p>The Law of Faith; that we believe and acknowledge Jeſus to be the Chriſt the Son of God,<note place="margin">Faith.</note> perſwading our Hearts of the <hi>Truth</hi> of his Divine Miſſion and Doctrine; and of the <hi>importance</hi> of both; and that we publickly profeſs our Faith and Hope in him, and confeſs him (if need be) even with the hazard of our Lives. (<hi>Rom.</hi> 16.26. <hi>Rom.</hi> 9.10. <hi>Mat.</hi> 10.32, 33.)</p>
+            <p>The precept of <hi>Repentance</hi> enjoyns, that we carefully turn and abſtain from all that is evil;<note place="margin">Repentance.</note> that we Live with great Care and Obſer<g ref="char:EOLhyphen"/>vation of our ſelves; that we frequently examine our Principles and Practice; that we ſorrowfully confeſs our Faults to God, and ask forgiveneſs for them; and that we do the ſame towards Men, in Caſe of Injury or Scandal. (<hi>Acts</hi> 3.19. 2 <hi>Cor.</hi> 13.5. <hi>Jam.</hi> 5.16.
+<hi>Mat.</hi> 5.23.)</p>
+            <p>The Law of Chriſt Obligeth us likewiſe, to Love and Pray for and do good to our Enemies;<note place="margin">Love of Enemies and of Chriſtians.</note> and to bear a moſt tender Affection, and ſhew ſingular kindneſs to our fellow Chriſtians. (<hi>Mat.</hi> 5.44.
+<hi>John</hi> 15.12. <hi>John</hi> 17.21, 23.)</p>
+            <p>It is alſo the Duty of Chriſtians, to <hi>Think</hi> of,<note place="margin">Heavenly-minded<g ref="char:EOLhyphen"/>ueſs.</note> to <hi>Affect,</hi> to <hi>Deſire</hi> and
+<hi>Hope</hi> for that im<g ref="char:EOLhyphen"/>mortal Life and Bliſs, which the Goſpel hath brought to light; and to have but little conſideration of the things of this Life, for which the <hi>Gentiles</hi> ſerved their Gods, and the <hi>Jews</hi> the God of <hi>Iſrael;</hi> but to do good and to ſuffer patiently, <hi>Looking for their Reward in Heaven.</hi> (2 <hi>Cor.</hi> 4.18.
+<hi>Coloſ.</hi> 3.2. <hi>Phil.</hi> 3.20.)</p>
+            <p>And ſo it is alſo, to <hi>Study</hi> and <hi>imitate</hi> the Life of Chriſt;<note place="margin">Imitation of Chriſt.</note> and having ſuch a Pattern and Guide, to endeavour to excell in puri<g ref="char:EOLhyphen"/>ty of Heart and Life, the beſt Examples of all other Inſtitu<g ref="char:EOLhyphen"/>tions. (<hi>John</hi> 13.14. <hi>Mat.</hi> 11.29. <hi>Mat.</hi> 5.46, 47.)</p>
+            <p>The poſitive Inſtitutions of Chriſt, are the means he hath appointed for the better obſervance of theſe primary Laws of his Religion,<note place="margin">Secondary Inſtructi<g ref="char:EOLhyphen"/>ons.</note> and they are,</p>
+            <p>Prayer both Private and Publick, which is both an Act of Religion,<note place="margin">Prayer.</note> and a ſpecial mean to keep up
+<pb n="11" facs="tcp:63637:7" rendition="simple:additions"/>the Senſe and Power thereof in our Hearts and Lives. (<hi>Mat.</hi>
+6.6. <hi>Luke</hi> 11.2, 13.)</p>
+            <p>And ſo is the Miniſtry of the Word, by an Order of Men <hi>fitted</hi> and
+<hi>appointed</hi> for that purpoſe;<note place="margin">Miniſtry of the Word.</note> an excellent mean, for informing the Judgments, awakening the Conſciences, per<g ref="char:EOLhyphen"/>ſwading the Hearts, and influencing the Lives of Chriſtians. (<hi>Eph.</hi> 4.11, 12, 13.)</p>
+            <p>Beſides theſe Moral means, our Lord hath inſtituted two Rites, as <hi>Inſtruments</hi> and Helps of Religion.</p>
+            <p>By the one, <hi>Baptiſm,</hi> we are made Diſciples of Chriſt,<note place="margin">Baptiſm.</note> to learn that Religion which God the Father Taught by his Son, and confirmed by the holy Ghoſt: and oblige our ſelves to the Study, Profeſſion, and Practice thereof. (<hi>Mat.</hi> 28.19, 20.)</p>
+            <p>By the other, the <hi>Lords Supper;</hi> we make a ſolemn Commemoration of the Death of our Bleſſed Lord and Saviour,<note place="margin">The Lord's Supper.</note> which was the Sacri<g ref="char:EOLhyphen"/>fice for our Sins, and at, and by which his Religion was ſet up, and are thereby put in mind of our mighty Obligations to Holineſs, and of the great Aſſurance there is of Remiſſion of Sins, and Reſurrection to Eternal Life, for all thoſe who Believe and Obey the Goſpel. (<hi>Luke</hi> 22.19, 20. <hi>John</hi> 6.39, 40.)</p>
+            <p>This is the Religion of Chriſt: The proof whereof is contained in the Hiſtory of his Life,<note place="margin">Demonſtrations of Chriſtianity.</note> and Death, Reſurrection and Aſcenſion, and ſending of the holy Ghoſt If we conſider theſe Facts, we muſt be convinced that Jeſus is the Son God, and that his Religion is Divine, and that they who Believe and Obey him, ſhall be Happy by the forgiveneſs of their Sins, and a Reſurrection to Life eternal.,</p>
+            <p>To ſet up ſuch a Religion was a Work worthy of God, and to Receive and Obey it, is the greateſt intereſt and concern of Men. We can neither blame the <hi>Doctrine,</hi> nor refute the <hi>Proofs</hi> of it; but Men become unbelievers by being reſolvedly wicked; for they being Enemies to the Truth, will not receive it. We have more reaſon to give Credit to the things reported in the Goſpels than to any thing elſe which we have not ſeen with our Eyes; and the Religion founded upon theſe Facts, is what we ſhould with to be true; and we run a mighty and a moſt deſperate haz<g ref="char:EOLhyphen"/>zard, even of the loſs of our immortal Souls, by our neglect of it.</p>
+            <p>By our admittance into the Church, and the fellowſhip of Chriſtians,<note place="margin">The Church.</note> we are freed from thoſe Chains in which Satan holds
+<pb n="12" facs="tcp:63637:8"/>the Children of Darkneſs; we are mightly prevented with the Grace of God for our Inſtruction and Perſwaſion in the Truth; and mightily aſſured of his continual Aſſiſtance and Bleſſing up<g ref="char:EOLhyphen"/>on our Religious Endeavours. That therefore which is incum<g ref="char:EOLhyphen"/>bent upon us, is, by a due uſe of thoſe helps and means graci<g ref="char:EOLhyphen"/>ouſly afforded us, to get ſuch Religious Knowledge as is needful; and by the Divine Aſſiſtance (which is promiſed) to maſter our naughty Inclinations and vicious Habits, that we may Practice ac<g ref="char:EOLhyphen"/>cordingly.</p>
+            <p>By being of this reformed Church of <hi>England,</hi> we have vaſt advantages for Religious Knowledge and Practice, which they want, who live where Chriſtianity is Debauched, and blended with Paganiſm: and how then ſhall we anſwer it to God, and our Lord Jeſus Chriſt; it by the abuſe of his <hi>Grace,</hi> and of our <hi>Selves,</hi> we continue Ignorant and Vicious as Papiſts or Pagans.</p>
+            <p>Let us not then Reproach the Author of our holy Religion, by being careleſs and negligent thereof; as if God had ſent his Son in vain, and given the holy Ghoſt to no purpoſe, and ſet up a Religion that is not worth our minding, nor let us be ſo fooliſh for our ſelves as to periſh by ſloath and ignorance, in our Rebellion againſt God; who of his infinite Mercies hath taken ſo much Care to Redeem us, and to make us Wiſe and Good, and ſo eternally Happy.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="prayer">
+            <pb facs="tcp:63637:8"/>
+            <head>A Prayer.</head>
+            <p>O God the Father Almighty Maker of Heaven and Earth, we thy Creatures fall down with all humility to Worſhip thee; in whoſe Hands our Breath is, and before whom are all our Ways. It is but juſt and meet that we ſhould Honour and Serve, Fear and Love, thee above all; for thou art the Author of our Beings, the Fountain of all our Enjoyments, and the God of all our Hopes. All thy ways towards us are Mercy and Goodneſs; thy loving kindneſs is better than Life; thy Service is perfect freedom; all thy Commandments are Faithful and Right; and in keeping of them there is great Reward.</p>
+            <p>Thou, O God, art Righteous, but we have done exceeding wickedly in following the imaginations of our fooliſh Hearts, to offend againſt thy holy Laws: We have provoked moſt juſtly thy Wrath and Indignation by our wicked Works; and have moſt grievouſly ſinned againſt our own Souls.</p>
+            <p>But bleſſed be the Father of our Lord Jeſus Chriſt, who ſo loved the World, that he hath given his only begotten Son, that believing in him we might not Periſh, but may have everlaſting Life, and hath exalted him to his own Right hand, to be a Prince and Saviour, to give Repentance and Remiſſion of Sins! We beſeech thee for his ſake to pardon our manifold Sins and Errours, which we humbly and ſor<g ref="char:EOLhyphen"/>rowfully confeſs; and to grant that from henceforth we may cleave ſteadfaſtly unto thee in Righteouſneſs, and Purity, in Humility and Charity, and all thoſe Divine Vertues of which our bleſſed Redeemer hath given us ſo great an Example. Give us Grace to withſtand the Temptations of the World, the Fleſh, and the Devil; that with pure Hearts we may follow thee, the only God, treading in the bleſſed ſteps of thy Son our Saviour Jeſus Chriſt. Make us Faithful in the uſe of all thoſe bleſſed Advantages thou haſt given us, for the renewing of our Minds, and reſtoring thine Image in us; and bleſs all thy ſacred Appointments, for our increaſing in Righteouſneſs and Holineſs. That ſo whilſt we live here, a good Conſcience may be our greateſt Care, and Holineſs our chief Delight; and we being reconciled to thy will, may Live and Dye in thy Peace and Favour, and at laſt through thy Mer<g ref="char:EOLhyphen"/>cy may be found meet to be partakers of the inheritance of the Saints in Life.</p>
+            <p>Hear us moſt gr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cious Father through the mediation of thy Son our Bleſſed Lord and Saviour, in whoſe moſt holy Name and Words we commend to thy Mercy and Protection our Selves and all Mankind; ſaying, Our Father, &amp;c.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
